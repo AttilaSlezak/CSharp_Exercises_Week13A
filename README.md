@@ -1,5 +1,5 @@
 # CSharp_Exercises_Week13A
-<h1>Learning basics of C#</h1>
+<h2>Learning basics of C#</h2>
 
 The weekly tasks contained 3 projects:
 <ol>
@@ -8,9 +8,8 @@ The weekly tasks contained 3 projects:
   <li><a href="#SortString">SortString</a></li>
 </ol>
 
-<p id="CreateClass">
-In this task I had to create four classes:
-</p>
+<h3 id="CreateClass">CreateClass</h3>
+<p>In this task I had to create a console application with four classes:</p>
 <dl>
   <dt>Person</dt>
   <dd>Which describes a person with his/her name and birthdate.</dd>
@@ -22,10 +21,8 @@ In this task I had to create four classes:
   <dd>Which contents the Main function and instantiates two Employee.</dd>
 </dl>
 
-<p id="TimerEvents">
+<h3 id="TimerEvents">TimerEvents</h3>
+<p>In this task I had to create a Windows Form application. The form had to content a progress bar and a Timer object which throws an event in every second. This event raises the value of the progress bar with 10 each time.</p>
 
-</p>
-
-<p id="SortString">
-
-</p>
+<h3 id="SortString">SortString</h3>
+<p>In this task I had to split a string what contents a sentence. This way I got an array of words. I had to sort of these words by using the Array.Sort() method, and then I had to join the words into one string again. Now the words follows each other in the string in alphabetical order.</p>
